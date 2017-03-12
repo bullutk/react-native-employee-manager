@@ -27,7 +27,7 @@ class EmployeeCreate extends Component{
 				</CardSection>
 
 				<CardSection>
-					<Text style={styles.pickerTextStyle}>Select day of shift</Text>
+					<Text style={styles.pickerTextStyle}>Select day of shift:</Text>
 				</CardSection>
 
 				<CardSection>
